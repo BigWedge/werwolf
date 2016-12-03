@@ -1,0 +1,43 @@
+
+
+
+Generall Output:  Die Sonne in Düsterwald geht langsam unter, es wird kalt und die Dorfbewohner begeben sich in ihre Häuser,  
+                  schließen ihre Augen und schlafen langsam ein.
+
+Armor:
+  Precondition:   Gib zwei Spielernamen die sich verlieben sollen wie folgt ein: "Spieler1 & Spieler2"
+  Input:          Spieler1 & Spieler2
+  Output:         %d und %d sind nun verliebt
+  Output2:        Du bist ab nun unsterblich in %d verliebt, Spieler1/Spieler2
+  
+Seherin:
+  Precondition:   Gib einen Spielernamen wie folgt ein, um in deine Kristallkugel zu sehen und das wahre Wesen dieses Wesens zu                   erfahren: "Spielername".
+  Output:         %d ist ein unschuldiger Dorfbewohner
+                  Du hast in deiner Kristallkugel gesehen, dass %d etwas schwarzes in der Seele verbirgt. Du schließt daraus                     dass es sich um einen Werwolf handeln muss!
+                  
+Schlampe: 
+  Precondition:   Gib einen Spielernamen ein, bei dem du übernachtest wie folgt ein: "Spielername"
+
+WW:
+  Precondition:   Die Werwölfe erwachen mit einem nur durch Menschenfleisch stillbaren Hunger und beraten sich wer ihnen diese                    Nacht zum Opfer fallen wird. Ein Werwolf gibt dazu den Namen des Opfers wie folgt ein: "Spielername"
+Hexe:
+  Precondition:   %d ist heute Nacht den Werwölfen zum Opfer gefallen. Möchtest du deinen Heiltrank nutzen um es zu retten?
+  Input:          y/n
+  Precondition2:  Möchtest du deinen Todestrank benutzen um jemanden zu töten?
+  Inout2          nein/Spielername
+ 
+Generell Output:  Die ersten Sonnenstrahlen fallen auf das kleine Dorf Düsterwald und die Dorfbewohner erwachen. 
+Eventuall Output: Nur %d erwacht nicht. Er/Sie war %d.
+toterSpielerOutput: Du bist diese Nacht gestorben.
+
+Generell Output: Da das Dorf zur Zeit keinen Bürgermeister hat, beschließen sich die Dorfbewohner ein Oberhaupt zu wählen,                    das bei Stimmengleichheit einen ExtraStimme erhält und die Hinrichtung durchführt.
+
+Generell Output:  Die Dorfbewohner beraten sich nun, um einen schuldigen für die Gräuel der letzen Nacht zu finden und diesen                   Hinzurichten. Hoffentlich wird ihr Urteil keinen Unschuldigen treffen...
+Generell Output:  Der Hauptmann gibt nach der Abstimmung nun den Befehl zur Hinrichtung.
+
+Generell Output:  Die gelynchte Person war %d, das Dorf ist schockiert, dass sie einen Unschuldigen um sein Leben gebracht haben.
+Gnerell Output2:  Nach seinem Tod verwandelt sich %d in eine Werwolfleiche. Das ganze Dorf hofft nun, dass das Morden ein                       Ende hat.
+
+
+
+
